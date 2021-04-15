@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Welcome to my home
 ![image](https://imgur.com/wkc8oD3.gif)
 
-**Computer Engineer and Researcher at NatalNet Labs ( UFRN )**
+**Computer Engineer and Researcher at NatalNet Labs ( UFRN ) and MidiaCom ( UFF )**
 
 ```bash
 - 🔭 I’m currently working on Foveation and Multifoveation
